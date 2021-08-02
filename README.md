@@ -5,8 +5,21 @@ Some other useful applications of Code can be in Keeping tracks of objects on co
 
 # Results
 
-Final Footage
+Mask:
+
+![mask](gifs/mask.gif)
+
+Region of Interest (ROI):
+
+![ROI](gifs/ROI.gif)
+
+Final Footage:
+
 ![results](gifs/results.gif)
 
-Mask
-![mask](gifs/mask.gif)
+Tracked Co-ordinates:
+
+![Co-ordinates](gifs/co-ordinates.gif)
+
+
+# Problem statement
