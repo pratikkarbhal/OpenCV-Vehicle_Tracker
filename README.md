@@ -1,6 +1,6 @@
 # Results
 
-Mask:
+Mask for detection:
 
 ![mask](gifs/mask.gif)
 
@@ -8,7 +8,7 @@ Region of Interest (ROI):
 
 ![ROI](gifs/ROI.gif)
 
-Final Footage (successfully tracked Heavy vehicles only):
+Final Tracking Footage (successfully tracked Heavy vehicles only):
 
 ![results](gifs/results.gif)
 
