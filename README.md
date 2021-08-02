@@ -21,7 +21,7 @@ Tracked Co-ordinates (using tracker object):
 
 Use OpenCV Object tracking to make Trafficc Management System. 
 
-Use appropriate Road footage. ( I Managed to get one from pexels.com)
+Use appropriate Road footage. ( I Managed to get one from the video website pexels.com)
 
 Track only Heavy vehicles (like car, bus, truck, etc.) from Traffic with all types of vehicles (including bikes, bicycle, people, etc.). 
 
