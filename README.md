@@ -29,4 +29,4 @@ Return the tracked co-ordinates for each object separately.
 
 #
 
-Some other useful applications of Code can be in Keeping tracks of objects on conveyor belt, Counting people in certain area, other traffic scenarios, etc.
+Some other useful applications of Code can be in Keeping tracks of objects on conveyor belt, Cheacking Object Trajectory, Counting people in certain area, other traffic scenarios, etc.
