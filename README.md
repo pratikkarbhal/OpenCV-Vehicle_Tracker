@@ -11,7 +11,7 @@ Region of Interest (ROI):
 
 ![ROI](gifs/ROI.gif)
 
-Final Footage:
+Final Footage (successfully tracked Heavy vehicles only):
 
 ![results](gifs/results.gif)
 
