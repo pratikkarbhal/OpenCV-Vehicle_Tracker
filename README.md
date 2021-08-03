@@ -23,7 +23,7 @@ Use OpenCV Object tracking to make Traffic Management System.
 
 Use appropriate Road footage. ( I used stock video from www.pexels.com)
 
-Track only Heavy vehicles (like car, bus, truck, etc.) from Traffic with all types of vehicles (including bikes, bicycle, people, etc.). 
+Track only Heavy vehicles (like car, bus, truck, etc.) from Traffic of all types of vehicles (including bikes, bicycle, people, etc.). 
 
 Return the tracked co-ordinates for each object separately.
 
