@@ -30,7 +30,7 @@ while True:
     roi = frame[300: 510,550: 950]
 
     # here, object detection takes place
-    # mask screen gives us idea of how mmoving object is represented in R.O.I.
+    # mask screen gives us idea of how moving object is represented in R.O.I.
     mask = object_detector.apply(roi)
     # binary parameter (shows black and white screen) i.e. two possibilities moving/not moving
     _, mask = cv2.threshold(mask, 254, 255, cv2.THRESH_BINARY)
@@ -62,7 +62,7 @@ while True:
     cv2.imshow("Frame", frame)
 
 
-    # for exiting the program , 27 refers to escape key
+    # to exit the program (27 refers to escape key)
     key = cv2.waitKey(30)
     if key == 27:
         break
