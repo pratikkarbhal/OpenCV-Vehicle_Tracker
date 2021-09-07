@@ -19,7 +19,7 @@ Tracked Co-ordinates (using tracker object):
 
 # Problem statement
 
-Use OpenCV Object tracking to make Traffic Management System. 
+Use OpenCV-Object tracking to make Traffic Management System. 
 
 Use appropriate Road footage. ( I used stock video from www.pexels.com)
 
